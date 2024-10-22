@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculator", "BMICalculator\BMICalculator.csproj", "{D059D5D6-FD71-40E6-82EB-187E554B1299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D059D5D6-FD71-40E6-82EB-187E554B1299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D059D5D6-FD71-40E6-82EB-187E554B1299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D059D5D6-FD71-40E6-82EB-187E554B1299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D059D5D6-FD71-40E6-82EB-187E554B1299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA648278-6D59-41E4-ADAB-9EB10B87B2F4}
+	EndGlobalSection
+EndGlobal
